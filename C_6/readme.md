@@ -1,6 +1,6 @@
-# while문,do_while문,for문
+# 6주차 실습(while문,do_while문,for문)
 
-while문 예
+- while문 예
 ```c
 #include <stdio.h>
 int main(void) {
@@ -13,7 +13,7 @@ int main(void) {
     return 0;
 }
 ```
-do_while문
+- do_while문
 ```c
 #include <stdio.h>
 int main(void) {
@@ -30,7 +30,7 @@ int main(void) {
     return 0;
 }
 ```
-for문 예
+- for문 예
 ```c
 #include <stdio.h>
 int main(void) {
